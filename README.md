@@ -121,11 +121,64 @@ Experience using the following machine learning models:
 
 ## Leadership
 
+__Research Mentor__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2019 - 2024
+
+<img src = "Images/Vanderbilt.jpg" width = 27 height = 20/>&ensp;[__Vanderbilt University__](https://www.vanderbilt.edu/) (Nashville, TN)
+
+- Led team of undergraduate and graduate students working on projects I curated. The 5 undergraduate mentees over 4 years went on to be co-authors on publications, presenters at national conferences, and embark on PhD degrees of their own.
+
+<br />
+
+__Teaching Assistant__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2019 - 2020
+
+<img src = "Images/Vanderbilt.jpg" width = 27 height = 20/>&ensp;[__Vanderbilt University__](https://www.vanderbilt.edu/) (Nashville, TN)
+
+- Taught undergraduate lab course focused on python, FPGAs, and electronics, creating 30% of the lab content.
+
+<br />
+
+__Apprentice Advisor__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2018
+
+<img src = "Images/Crowcon.jpg" width = 25 height = 20/>&ensp;[__Crowcon Detection Instruments Ltd.__](https://www.crowcon.com) (Abingdon, UK)
+
+- Mentored 3 junior employees during 3-month rotations with the R&D department, resulting in one apprentice taking a permanent position in the team.
 
 ***
+
+## Awards
+
+🏆 [2022 SPIE Optics and Photonics Education Scholarship](https://my.vanderbilt.edu/vinsenews/2022/06/simon-ward-awarded-spie-optics-and-photonics-education-scholarship/)
+
+🏆 [C.F. Chen 2022 Graduate Student Paper Award for “Best Paper in Electrical Engineering”](https://engineering.vanderbilt.edu/ece/Graduate/best-paper.php)
+
+🏆 [Vanderbilt Graduate Leadership Institute Fall 2022 Dissertation Enhancement Grant](https://gradschool.vanderbilt.edu/gli/degawards/)
+
+🏆 [Vanderbilt Institute of Nanoscience and Engineering (VINSE) 2023 Summer Image Competition Winner](https://my.vanderbilt.edu/vinsenews/2023/09/winners-of-the-2023-vinse-summer-image-competition/)
+
+***
+
 ## Values:
 
 I value and prioritise model fairness, understanding the data collection process and empathy for end users, diversity (particularly in data science teams), and creating business value.
+
+***
+
+## Publications
+
+### Refereed Journal Articles:
+1.	Ward, S. J., S. J., Cao, T., Zhou, X., Chang, C., & Weiss, S. M. (2023). Protein Identification and Quantification Using Porous Silicon Arrays, Optical Measurements, and Machine Learning. biosensors 13(9), 879, 1–12. https://doi.org/10.3390/bios13090879
+2.	Ward, S. J., Layouni, R., Arshavsky-Graham, S., Segal, E., & Weiss, S. M. (2021). Morlet Wavelet Filtering and Phase Analysis to Reduce the Limit of Detection for Thin Film Optical Biosensors. ACS Sensors, 6(8), 2967–2978. https://doi.org/10.1021/acssensors.1c00787
+3.	Arshavsky-Graham, S., Ward, S. J., Massad-Ivanir, N., Scheper, T., Weiss, S. M., & Segal, E. (2021). Porous Silicon-Based Aptasensors: Toward Cancer Protein Biomarker Detection. ACS Measurement Science Au, 1(2), 82–94. https://doi.org/10.1021/acsmeasuresciau.1c00019
+### Conference Proceedings:
+1.	Ward, S. J., & Weiss, S. M. (2023). Reduction in sensor response time using long short-term memory network forecasting. Proc. SPIE, 12675(126750E). https://doi.org/10.1117/12.2676836
+2.	Ward, S. J., Cao, T., Chang, C., & Weiss, S. M. (2022). Analysis of machine learning techniques for capture agent free biosensing with porous silicon arrays. Proc. SPIE, 11979(1197907). https://doi.org/10.1117/12.2614697
+3.	Ward, S. J., & Weiss, S. M. (2021). Reducing detection limits of porous silicon thin film optical sensors using signal processing. Proc. SPIE, 11662(116620J). https://doi.org/10.1117/12.2579361
+### Conference Presentations:
+1.	“Reduction in sensor response time using long short-term memory network forecasting” Ward, S. J., & Weiss, S. M. SPIE Optics and Photonics, San Diego, CA, Aug. 2023.
+2.	“Using Machine Learning with Porous Silicon to Determine IgG Concentrations in Human Serum” Paier, G., Ward, S. J., & Weiss, S. M. BMES, San Antonio, TX, Oct. 2022.
+3.	“Reducing Detection Limits of Porous Silicon Thin Film Sensors using Signal Processing” Ward, S. J., Layouni R., Arshavsky-Graham S., Segal E., and Weiss S. M. PSST, Lido di Camaiore, Italy, March. 2022.
+4.	“Analysis of Machine Learning Techniques for Capture Agent Free Biosensing with Porous Silicon Arrays” Ward, S. J., Cao, T., Chang, C., & Weiss, S. M. SPIE Photonics West, San Francisco, CA, Jan. 2022.
+5.	“Reducing Detection Limits of Optical Thin Film Sensors using Signal Processing” Ward, S. J., & Weiss, S. M. SPIE Photonics West, Online, March. 2021.
 
 ***
 
@@ -145,7 +198,7 @@ __Food Packing Volunteer__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 <img src = "Images/SecondHarvestFoodBank.png" width = 29 height = 25/>&ensp;[__Second Harvest Food Bank__](https://www.secondharvestmidtn.org/) (Nashville, TN)
 
 - Sorted and packed food bags for children experiencing hunger across middle and west Tennessee.
-- 
+
 <br />
 
 __Assistant Foster Carer/Mentor__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2015 - 2019
