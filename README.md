@@ -30,7 +30,7 @@ For further details of my skills and experience, review the sections below, or s
 
 ***
 
-## Education 
+## Education
 
 <img src = "Images/Vanderbilt.jpg" width = 27 height = 20/>&ensp;[__Vanderbilt University__](https://www.vanderbilt.edu/) (Nashville, TN)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2019 - 2024 (February)
 
@@ -50,7 +50,8 @@ For further details of my skills and experience, review the sections below, or s
 
 ***
 
-## Engineering Experience 
+## Engineering Experience
+ 
 __Research assistant__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2019 - 2024
 
 <img src = "Images/Vanderbilt.jpg" width = 27 height = 20/>&ensp;[__Vanderbilt University__](https://www.vanderbilt.edu/) (Nashville, TN)
