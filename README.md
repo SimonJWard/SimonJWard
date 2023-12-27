@@ -191,7 +191,7 @@ __Vanderbilt University Engineering School Ambassador__&emsp;&emsp;&emsp;&emsp;&
 <img src = "Images/Vanderbilt.jpg" width = 27 height = 20/>&ensp;[__Vanderbilt University__](https://www.vanderbilt.edu/) (Nashville, TN)
 
 - Represented Vanderbilt school of engineering to external stakeholders in public online information sessions and several in-person events, sharing research and experiences at Vanderbilt.
-- Ran 3 outreach events for summer academy high school students to encourage STEM participation.
+- Directed outreach events for summer academy high school students to encourage STEM participation.
 
 <br />
 
