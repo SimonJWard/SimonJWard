@@ -16,7 +16,7 @@ Below are several data science projects, primarily focused on improving the perf
 
 | ⏱️📈⏩ [Faster Sensor Response using Time Series Forecasting](https://github.com/SimonJWard/Response-Time-Reduction/tree/main#readme)| 👅🧠🔥 [Increased Sensor Stability using Machine Learning](https://github.com/SimonJWard/Capture-Agent-Free-Biosensing)|
 | :-:| :-:| 
-| [<img src = "https://github.com/SimonJWard/Response-Time-Reduction/blob/main/Figures/OverviewFigure.png" width = 500 height = 300/>](https://github.com/SimonJWard/Response-Time-Reduction)| [<img src="https://github.com/SimonJWard/Capture-Agent-Free-Biosensing/blob/main/Figures/OverviewFigure.png" width = 500 height = 300/>](https://github.com/SimonJWard/Capture-Agent-Free-Biosensing)
+| [<img src = "https://github.com/SimonJWard/Response-Time-Reduction/blob/main/Figures/OverviewFigure.png" width = 500 height = 300/>](https://github.com/SimonJWard/Response-Time-Reduction/tree/main#readme)| [<img src="https://github.com/SimonJWard/Capture-Agent-Free-Biosensing/blob/main/Figures/OverviewFigure.png" width = 500 height = 300/>](https://github.com/SimonJWard/Capture-Agent-Free-Biosensing)
 
 | 🔍🎯📏 [Enhanced Biosensor Detection Limits with Signal Processing](https://github.com/SimonJWard/Enhancing-Biosensor-Detection-Limits)| 💡🔀📚 [Inverse Design of Optical Structures using Deep Learning](https://github.com/SimonJWard/Optical-Structure-Inverse-Design)|
 | :-:| :-:| 
