@@ -26,7 +26,7 @@ Below are several data science projects, primarily focused on improving the perf
 
 ## Resume 
 For further details of my skills and experience, review the sections below, or see my resume:
-📄 [__Simon-Ward-Resume__](https://github.com/.pdf)
+📄 [__Simon-Ward-Resume__](https://github.com/SimonJWard/SimonJWard/blob/main/Resume_Simon_Ward.pdf)
 
 ***
 
@@ -56,11 +56,12 @@ __Research assistant__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ems
 
 <img src = "Images/Vanderbilt.jpg" width = 27 height = 20/>&ensp;[__Vanderbilt University__](https://www.vanderbilt.edu/) (Nashville, TN)
 
-Investigating the use of machine learning and signal processing techniques to enhance performance and commercialization potential of biosensors.
-- Devised approach to reduce sensor response time by a factor > 4, using ensembles of LSTM networks for time series forecasting, uncertainty estimation and out-of-distribution sample identification, enabling rapid medical diagnostic tests.
-- Designed a capture agent-free biosensor using machine learning (dimensionality reduction, classification) applied to biosensor arrays, a step towards unprecedented low cost, robust and scalable point-of-care medical diagnostics.
-- Developed Morlet wavelet phase signal processing method to improve detection limits by 10x for thin film sensors, using Morlet wavelet band pass filtering to remove noise.
-- Built software (python) and hardware (stepper motor, laser cut plexiglass) to automate biosensor data collection, improving accuracy by 48% and increasing experimental throughput by 100x.
+Investigating the use of machine learning, AI and statistics to enhance performance and of biosensors.
+- Devised approach to reduce sensor response time by a factor > 5, using ensembles of LSTM deep
+neural networks (Tensorflow, Python) for time series forecasting, uncertainty estimation, and transfer learning with a simulated dataset, enabling rapid medical diagnostic tests.
+- Designed a capture agent-free biosensor using machine learning, applying dimensionality reduction for data visualization and classification (Python) to data from biosensor arrays, a step towards unprecedented low cost, robust and scalable sensors for point-of-care medical diagnostics.
+- Developed Morlet wavelet phase signal processing method (Matlab) to improve detection limits by 10x for thin film sensors, using Morlet wavelet band pass filtering to remove noise, and created open source app.
+- Built software (Python) and hardware (stepper motor, laser cut plexiglass) to automate biosensor data collection, improving accuracy by 48% and increasing experimental throughput by 100x.
 
 <br />
 
@@ -68,8 +69,8 @@ __Electronic Engineer__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&em
 
 <img src = "Images/Crowcon.jpg" width = 25 height = 20/>&ensp;[__Crowcon Detection Instruments Ltd.__](https://www.crowcon.com) (Abingdon, UK)
 
-- Designed gas detector firmware (C), analogue and digital electronics for communications and running sensors, driving the companies push towards IoT capability, accelerating beyond competitors.
-- Solved design flaws in existing products after troubleshooting customer problems under pressure and finding the root cause (ESD susceptibility, temperature drift), rescuing a £55,000 order of 150 units.
+- Developed safety-critical, production-ready gas detector firmware (C), analogue and digital electronics for communications and running sensors, driving the companies push towards IoT capability, accelerating beyond competitors.
+- Solved design flaws in existing products after troubleshooting customer problems under pressure and finding the root cause (ESD susceptibility, temperature drift), rescuing a $70,000 order of 150 units.
 - Created test procedures for new products, designed software (Python), electronics, and mechanics for automated test jigs and audited test house, improving quality and increasing production yields by 5%.
 
 <br />
@@ -78,7 +79,7 @@ __Research and Development Intern__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&em
 
 <img src = "Images/Crowcon.jpg" width = 25 height = 20/>&ensp;[__Crowcon Detection Instruments Ltd.__](https://www.crowcon.com) (Abingdon, UK)
 
-- Formulated and performed experiments to test software and hardware of a gas detecting camera and designed electronics in intelligent junction box, collaborated with a team in a partner company abroad.
+- Designed, ran, and analysed experiments to test software and hardware of a gas detecting camera and designed electronics in intelligent junction box, collaborated with a multi-functional global team.
 
 <br />
             		
@@ -86,9 +87,9 @@ __Research Assistant__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ems
 
 <img src = "Images/Durham.jpg" width = 20 height = 20/>&ensp;[__Durham University__](https://www.durham.ac.uk/) (Durham, UK)
 
-- Modelled physics of planetary motion in the solar system using python, achieving 5% increase in speed compared to previous project solution.
-- Probed molecular behaviour of surfactants using dual polarization interferometry, providing valuable insights for Procter and Gamble product development.
-- Engineered pipeline defect testing solution using eddy currents with the potential to reduce operating costs by >20% and communicated findings to company stakeholders, in collaboration with GE.
+- Engineered eddy current pipeline defect testing solution and data analytics (Python), potentially reducing operating costs by >20%, and communicating findings to company stakeholders at GE.
+- Probed molecular behaviour of surfactants using dual polarization interferometry, providing valuable insights Procter and Gamble product development, presented to P&G stakeholders.
+- Modelled physics of sending a rocket to the moon (Python), adding novel functionality.
 
 <br />
             		
@@ -126,7 +127,7 @@ __Research Mentor__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&
 
 <img src = "Images/Vanderbilt.jpg" width = 27 height = 20/>&ensp;[__Vanderbilt University__](https://www.vanderbilt.edu/) (Nashville, TN)
 
-- Led team of undergraduate and graduate students working on projects I curated. The 5 undergraduate mentees over 4 years went on to be co-authors on publications, presenters at national conferences, and embark on PhD degrees of their own.
+- Led interdisciplinary team of undergraduate and graduate students working on projects I curated. The 5 undergraduate mentees over 4 years went on to be co-authors on publications, presenters at national conferences, and embark on PhD degrees of their own.
 
 <br />
 
@@ -134,7 +135,7 @@ __Teaching Assistant__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ems
 
 <img src = "Images/Vanderbilt.jpg" width = 27 height = 20/>&ensp;[__Vanderbilt University__](https://www.vanderbilt.edu/) (Nashville, TN)
 
-- Taught undergraduate lab course focused on python, FPGAs, and electronics, creating 30% of the lab content.
+- Instructed undergraduate course focused on python, and electronics, creating 30% of lab content.
 
 <br />
 
@@ -191,7 +192,7 @@ __Vanderbilt University Engineering School Ambassador__&emsp;&emsp;&emsp;&emsp;&
 <img src = "Images/Vanderbilt.jpg" width = 27 height = 20/>&ensp;[__Vanderbilt University__](https://www.vanderbilt.edu/) (Nashville, TN)
 
 - Represented Vanderbilt school of engineering to external stakeholders in public online information sessions and several in-person events, sharing research and experiences at Vanderbilt.
-- Directed outreach events for summer academy high school students to encourage STEM participation.
+- Ran 3 outreach events for summer academy high school students to encourage STEM participation.
 
 <br />
 
@@ -215,7 +216,7 @@ __Church Volunteer__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 
 <img src = "Images/StAldates.png" width = 29 height = 25/>&ensp;[__St Aldates Church__](https://staldates.org.uk) (Oxford, UK)
 
-- Prepared and served meals to the homeless population of Oxford
+- Prepared and served meals to the homeless population of Oxford.
 
 ***
 
