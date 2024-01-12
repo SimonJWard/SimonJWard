@@ -56,7 +56,7 @@ __Research assistant__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ems
 
 <img src = "Images/Vanderbilt.jpg" width = 27 height = 20/>&ensp;[__Vanderbilt University__](https://www.vanderbilt.edu/) (Nashville, TN)
 
-Investigating the use of machine learning, AI and statistics to enhance performance and of biosensors.
+Investigating the use of machine learning, AI and statistics to enhance performance of biosensors, key components of medical diagnostic tests.
 - Devised approach to reduce sensor response time by a factor > 5, using ensembles of LSTM deep
 neural networks (Tensorflow, Python) for time series forecasting, uncertainty estimation, and transfer learning with a simulated dataset, enabling rapid medical diagnostic tests.
 - Designed a capture agent-free biosensor using machine learning, applying dimensionality reduction for data visualization and classification (Python) to data from biosensor arrays, a step towards unprecedented low cost, robust and scalable sensors for point-of-care medical diagnostics.
