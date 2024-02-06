@@ -9,7 +9,7 @@ I am an applied data science researcher with prior industry experience eager to 
 
 ***
 
-## Data Science Projects
+## Applied Machine Learning/Data Science Projects
 
 Below are several data science projects, primarily focused on improving the performance (speed of response, stability, and sensitivity) of biosensors (sensors able to detect harmful biological molecules) for more effective medical diagnostics 🩺💉💊, food safety 🍇🍅🍌 and environmental monitoring 🌱🐟💧, to keep people around the world healthier and safer.
 
