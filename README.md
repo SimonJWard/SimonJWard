@@ -38,7 +38,7 @@ For further details of my skills and experience, review the sections below, or s
 
 <br />
 
-<img src = "Images/Durham.jpg" width = 20 height = 20/>&ensp;[__Durham University__](https://www.durham.ac.uk/) (Durham, UK)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2014 - 2015
+<img src = "Images/Durham.jpg" width = 20 height = 20/>&ensp;[__Durham University__](https://www.durham.ac.uk/) (Durham, United Kingdom)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2014 - 2015
 
 &emsp;&emsp;__Masters of Physics__
 
@@ -52,16 +52,15 @@ For further details of my skills and experience, review the sections below, or s
 
 ## Engineering Experience
  
-__Research assistant__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2019 - 2024
+__Research assistant__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2019 - present
 
 <img src = "Images/Vanderbilt.jpg" width = 27 height = 20/>&ensp;[__Vanderbilt University__](https://www.vanderbilt.edu/) (Nashville, TN)
 
-Investigating the use of machine learning, AI and statistics to enhance performance of biosensors, key components of medical diagnostic tests.
-- Devised approach to reduce sensor response time by a factor > 5, using ensembles of LSTM deep
-neural networks (Tensorflow, Python) for time series forecasting, uncertainty estimation, and transfer learning with a simulated dataset, enabling rapid medical diagnostic tests.
-- Designed a capture agent-free biosensor using machine learning, applying dimensionality reduction for data visualization and classification (Python) to data from biosensor arrays, a step towards unprecedented low cost, robust and scalable sensors for point-of-care medical diagnostics.
-- Developed Morlet wavelet phase signal processing method (Matlab) to improve detection limits by 10x for thin film sensors, using Morlet wavelet band pass filtering to remove noise, and created open source app.
-- Built software (Python) and hardware (stepper motor, laser cut plexiglass) to automate biosensor data collection, improving accuracy by 48% and increasing experimental throughput by 100x.
+Investigating the application of machine learning, AI and statistics to enhance performance and accessibility of medical diagnostic tests.
+- Devised approach to reduce sensor response time by a factor > 5, using ensembles of LSTM deep neural networks (Python) for time series forecasting, uncertainty estimation, adversarial training, and transfer learning with a large-scale simulated dataset, enabling rapid testing of harmful molecules.
+- Designed a capture agent-free biosensor using machine learning, applying dimensionality reduction for data visualization and classification (Python) to data from biosensor arrays, a step towards unprecedented robust, scalable, and low-cost biosensors.
+- Invented algorithm using Morlet wavelet band pass filtering and Fourier analysis (Matlab), which improved detection limits of thin film sensors by 10x, and released easy-to-use open-source app.
+- Built software (Python) and hardware to automate biosensor data collection, improving accuracy by 48% and increasing experimental throughput by 100x.
 
 <br />
 
@@ -69,8 +68,8 @@ __Electronic Engineer__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&em
 
 <img src = "Images/Crowcon.jpg" width = 25 height = 20/>&ensp;[__Crowcon Detection Instruments Ltd.__](https://www.crowcon.com) (Abingdon, UK)
 
-- Developed safety-critical, production-ready gas detector firmware (C), analogue and digital electronics for communications and running sensors, driving the companies push towards IoT capability, accelerating beyond competitors.
-- Solved design flaws in existing products after troubleshooting customer problems under pressure and finding the root cause (ESD susceptibility, temperature drift), rescuing a $70,000 order of 150 units.
+- Developed and deployed safety-critical, production-ready gas detector firmware (C) and analogue and digital electronics for communications and running sensors, driving the companies push towards IoT capability and expansion into a previously untapped market.
+- Solved design flaws in products after troubleshooting customer problems under pressure and finding the root cause (ESD susceptibility, temperature drift), rescuing large orders ($70,000+).
 - Created test procedures for new products, designed software (Python), electronics, and mechanics for automated test jigs and audited test house, improving quality and increasing production yields by 5%.
 
 <br />
@@ -79,7 +78,7 @@ __Research and Development Intern__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&em
 
 <img src = "Images/Crowcon.jpg" width = 25 height = 20/>&ensp;[__Crowcon Detection Instruments Ltd.__](https://www.crowcon.com) (Abingdon, UK)
 
-- Designed, ran, and analysed experiments to test software and hardware of a gas detecting camera and designed electronics in intelligent junction box, collaborated with a multi-functional global team.
+- Designed, implemented, and analyzed experiments to test software and hardware of a gas detecting camera and designed intelligent junction box, collaborating with a multi-functional global team.
 
 <br />
             		
@@ -87,8 +86,8 @@ __Research Assistant__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ems
 
 <img src = "Images/Durham.jpg" width = 20 height = 20/>&ensp;[__Durham University__](https://www.durham.ac.uk/) (Durham, UK)
 
-- Engineered eddy current pipeline defect testing solution and data analytics (Python), potentially reducing operating costs by >20%, and communicating findings to company stakeholders at GE.
-- Probed molecular behaviour of surfactants using dual polarization interferometry, providing valuable insights Procter and Gamble product development, presented to P&G stakeholders.
+- Engineered eddy current pipeline defect testing solution and data analytics (Python), potentially reducing operating costs by >20%, and communicated findings to partners and stakeholders at GE.
+- Probed molecular behaviour of surfactants using dual polarization interferometry, providing valuable insights informing Procter and Gamble product development, and presented to P&G stakeholders.
 - Modelled physics of sending a rocket to the moon (Python), adding novel functionality.
 
 <br />
@@ -127,7 +126,7 @@ __Research Mentor__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&
 
 <img src = "Images/Vanderbilt.jpg" width = 27 height = 20/>&ensp;[__Vanderbilt University__](https://www.vanderbilt.edu/) (Nashville, TN)
 
-- Led interdisciplinary team of undergraduate and graduate students working on projects I curated. The 5 undergraduate mentees over 4 years went on to be co-authors on publications, presenters at national conferences, and embark on PhD degrees of their own.
+- Led interdisciplinary team of undergraduate and graduate students working on projects I curated. The 5 undergraduate mentees over 4 years went on to be co-authors on publications, presenters at national conferences, and graduate students embarking on PhD degrees of their own.
 
 <br />
 
@@ -135,7 +134,7 @@ __Teaching Assistant__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ems
 
 <img src = "Images/Vanderbilt.jpg" width = 27 height = 20/>&ensp;[__Vanderbilt University__](https://www.vanderbilt.edu/) (Nashville, TN)
 
-- Instructed undergraduate course focused on python, and electronics, creating 30% of lab content.
+- Instructed undergraduate course focused on Python and electronics, creating 30% of lab content.
 
 <br />
 
@@ -143,7 +142,7 @@ __Apprentice Advisor__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ems
 
 <img src = "Images/Crowcon.jpg" width = 25 height = 20/>&ensp;[__Crowcon Detection Instruments Ltd.__](https://www.crowcon.com) (Abingdon, UK)
 
-- Mentored 3 junior employees during 3-month rotations with the R&D department, resulting in one apprentice taking a permanent position in the team.
+- Mentored 3 junior employees during 3-month rotations within the R&D department, resulting in one apprentice taking a permanent position on the team.
 
 ***
 
@@ -191,7 +190,7 @@ __Vanderbilt University Engineering School Ambassador__&emsp;&emsp;&emsp;&emsp;&
 
 <img src = "Images/Vanderbilt.jpg" width = 27 height = 20/>&ensp;[__Vanderbilt University__](https://www.vanderbilt.edu/) (Nashville, TN)
 
-- Represented Vanderbilt school of engineering to external stakeholders in public online information sessions and several in-person events, sharing research and experiences at Vanderbilt.
+- Represented Vanderbilt School of Engineering to external stakeholders in public online information sessions and several in-person events, sharing research and experiences at Vanderbilt.
 - Ran 3 outreach events for summer academy high school students to encourage STEM participation.
 
 <br />
@@ -208,7 +207,7 @@ __Assistant Foster Carer/Mentor__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp
 
 <img src = "Images/OxfordshireCountyCouncil.jpg" width = 29 height = 25/>&ensp;[__Oxfordshire County Council Social and Health Care__](https://www.oxfordshire.gov.uk/residents/social-and-health-care) (Oxford, UK)
 
-- Cared for disadvantaged foster children from newborn to twelve years old, aiding my parents who are full-time caregivers. These children faced a spectrum of difficulties, requiring specialized care.
+- Cared for disadvantaged foster children from newborn to twelve years old, aiding my parents who are full-time caregivers. These children faced a range of difficulties, requiring specialized care.
 
 <br />
 
