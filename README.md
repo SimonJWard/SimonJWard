@@ -14,11 +14,11 @@ I am an applied data science researcher with prior industry experience eager to 
 Below are several data science projects, primarily focused on improving the performance (speed of response, stability, and sensitivity) of biosensors (sensors able to detect harmful biological molecules) for more effective medical diagnostics 🩺💉💊, food safety 🍇🍅🍌 and environmental monitoring 🌱🐟💧, to keep people around the world healthier and safer.
 
 
-| ⏱️📈⏩ [Faster Sensor Response using Time Series Forecasting](https://github.com/SimonJWard/Response-Time-Reduction/tree/main#readme)| 👅🧠🔥 [Increased Sensor Stability using Machine Learning](https://github.com/SimonJWard/Capture-Agent-Free-Biosensing)|
+| ⏱️📈⏩ [Faster Sensor Response using Time Series Forecasting](https://github.com/SimonJWard/Response-Time-Reduction/tree/main#readme)| 👅🧠🔥 [Increased Biosensor Stability using Machine Learning](https://github.com/SimonJWard/Capture-Agent-Free-Biosensing)|
 | :-:| :-:| 
 | [<img src = "https://github.com/SimonJWard/Response-Time-Reduction/blob/main/Figures/OverviewFigure.png" width = 500 height = 300/>](https://github.com/SimonJWard/Response-Time-Reduction/tree/main#readme)| [<img src="https://github.com/SimonJWard/Capture-Agent-Free-Biosensing/blob/main/Figures/OverviewFigure.png" width = 500 height = 300/>](https://github.com/SimonJWard/Capture-Agent-Free-Biosensing)
 
-| 🔍🎯📏 [Enhanced Biosensor Detection Limits with Signal Processing](https://github.com/SimonJWard/Enhancing-Biosensor-Detection-Limits)| 💡🔀📚 [Inverse Design of Optical Structures using Deep Learning](https://github.com/SimonJWard/Optical-Structure-Inverse-Design)|
+| 🔍🎯📏 [Enhanced Sensor Detection Limits with Signal Processing](https://github.com/SimonJWard/Enhancing-Biosensor-Detection-Limits)| 💡🔀📚 [Inverse Design of Optical Structures using Deep Learning](https://github.com/SimonJWard/Optical-Structure-Inverse-Design)|
 | :-:| :-:| 
 | [<img src = "https://github.com/SimonJWard/Enhancing-Biosensor-Detection-Limits/blob/main/Figures/OverviewFigure.png" width = 500 height = 300/>](https://github.com/SimonJWard/Enhancing-Biosensor-Detection-Limits)| [<img src = "https://github.com/SimonJWard/Optical-Structure-Inverse-Design/blob/main/Figures/OverviewFigure.png" width = 500 height = 300/>](https://github.com/SimonJWard/Optical-Structure-Inverse-Design)
 
