@@ -38,13 +38,13 @@ For further details of my skills and experience, review the sections below, or s
 
 <br />
 
-<img src = "Images/Durham.jpg" width = 20 height = 20/>&ensp;[__Durham University__](https://www.durham.ac.uk/) (Durham, United Kingdom) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2014 - 2015
+<img src = "Images/Durham.jpg" width = 20 height = 20/>&ensp;[__Durham University__](https://www.durham.ac.uk/) (Durham, United Kingdom) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2014 - 2015
 
 &emsp;&emsp;__Masters of Physics__
 
 <br />
 
-<img src = "Images/Durham.jpg" width = 20 height = 20/>&ensp;[__Durham University__](https://www.durham.ac.uk/) (Durham, UK) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2011 - 2014
+<img src = "Images/Durham.jpg" width = 20 height = 20/>&ensp;[__Durham University__](https://www.durham.ac.uk/) (Durham, UK) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2011 - 2014
 
 &emsp;&emsp;__Bachelors of Physics__
 
@@ -52,7 +52,7 @@ For further details of my skills and experience, review the sections below, or s
 
 ## Engineering Experience
 
-__Consultant Research Scientist__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2024 - present
+__Consultant Research Scientist__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2024 - present
 
 <img src = "Images/StealthStartup.jpg" width = 27 height = 27/>&ensp;__Stealth Startup__ (remote)
 
@@ -60,7 +60,7 @@ __Consultant Research Scientist__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp
 
 <br />
  
-__Research Associate__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2019 - present
+__Research Associate__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2019 - present
 
 <img src = "Images/Vanderbilt.jpg" width = 27 height = 20/>&ensp;[__Vanderbilt University__](https://www.vanderbilt.edu/) (Nashville, TN)
 
@@ -72,7 +72,7 @@ Investigating the application of machine learning, AI and statistics to enhance 
 
 <br />
 
-__Electronic Engineer__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2015 - 2019
+__Electronic Engineer__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2015 - 2019
 
 <img src = "Images/Crowcon.jpg" width = 25 height = 20/>&ensp;[__Crowcon Detection Instruments Ltd.__](https://www.crowcon.com) (Abingdon, UK)
 
@@ -82,7 +82,7 @@ __Electronic Engineer__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&em
 
 <br />
                  		
-__Research and Development Intern__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(two summer internships) 2014 and 2015
+__Research and Development Intern__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(two summer internships) 2014 and 2015
 
 <img src = "Images/Crowcon.jpg" width = 25 height = 20/>&ensp;[__Crowcon Detection Instruments Ltd.__](https://www.crowcon.com) (Abingdon, UK)
 
@@ -90,7 +90,7 @@ __Research and Development Intern__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&em
 
 <br />
             		
-__Research Associate__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2012 - 2015
+__Research Associate__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2012 - 2015
 
 <img src = "Images/Durham.jpg" width = 20 height = 20/>&ensp;[__Durham University__](https://www.durham.ac.uk/) (Durham, UK)
 
@@ -100,7 +100,7 @@ __Research Associate__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ems
 
 <br />
             		
-__Research and Development Intern__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(summer internship) 2011
+__Research and Development Intern__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(summer internship) 2011
 
 <img src = "Images/OxfordInstruments.png" width = 25 height = 25/>&ensp;[__Oxford Instruments__](https://www.oxinst.com/) (Abingdon, UK)
 
@@ -130,7 +130,7 @@ Experience using the following machine learning models:
 
 ## Leadership
 
-__Research Mentor__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2019 - 2024
+__Research Mentor__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2019 - 2024
 
 <img src = "Images/Vanderbilt.jpg" width = 27 height = 20/>&ensp;[__Vanderbilt University__](https://www.vanderbilt.edu/) (Nashville, TN)
 
@@ -138,7 +138,7 @@ __Research Mentor__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&
 
 <br />
 
-__Teaching Assistant__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2019 - 2020
+__Teaching Assistant__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2019 - 2020
 
 <img src = "Images/Vanderbilt.jpg" width = 27 height = 20/>&ensp;[__Vanderbilt University__](https://www.vanderbilt.edu/) (Nashville, TN)
 
@@ -146,7 +146,7 @@ __Teaching Assistant__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ems
 
 <br />
 
-__Apprentice Advisor__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2018
+__Apprentice Advisor__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2018
 
 <img src = "Images/Crowcon.jpg" width = 25 height = 20/>&ensp;[__Crowcon Detection Instruments Ltd.__](https://www.crowcon.com) (Abingdon, UK)
 
@@ -194,7 +194,7 @@ I value and prioritise model fairness, understanding the data collection process
 
 ## Community Service
 
-__Vanderbilt University Engineering School Ambassador__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2019 - 2023
+__Vanderbilt University Engineering School Ambassador__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2019 - 2023
 
 <img src = "Images/Vanderbilt.jpg" width = 27 height = 20/>&ensp;[__Vanderbilt University__](https://www.vanderbilt.edu/) (Nashville, TN)
 
@@ -203,7 +203,7 @@ __Vanderbilt University Engineering School Ambassador__&emsp;&emsp;&emsp;&emsp;&
 
 <br />
 
-__Food Packing Volunteer__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2022 - 2023
+__Food Packing Volunteer__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2022 - 2023
 
 <img src = "Images/SecondHarvestFoodBank.png" width = 29 height = 25/>&ensp;[__Second Harvest Food Bank__](https://www.secondharvestmidtn.org/) (Nashville, TN)
 
@@ -211,7 +211,7 @@ __Food Packing Volunteer__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 
 <br />
 
-__Assistant Foster Carer/Mentor__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2015 - 2019
+__Assistant Foster Carer/Mentor__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2015 - 2019
 
 <img src = "Images/OxfordshireCountyCouncil.jpg" width = 29 height = 25/>&ensp;[__Oxfordshire County Council Social and Health Care__](https://www.oxfordshire.gov.uk/residents/social-and-health-care) (Oxford, UK)
 
@@ -219,7 +219,7 @@ __Assistant Foster Carer/Mentor__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp
 
 <br />
 
-__Church Volunteer__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2016 - 2018
+__Church Volunteer__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2016 - 2018
 
 <img src = "Images/StAldates.png" width = 29 height = 25/>&ensp;[__St Aldates Church__](https://staldates.org.uk) (Oxford, UK)
 
