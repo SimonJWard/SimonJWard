@@ -54,7 +54,7 @@ For further details of my skills and experience, review the sections below, or s
 
 __Consultant Research Scientist__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2024 - present
 
-<img src = "Images/StealthStartup.jpg" width = 27 height = 20/>&ensp;__Stealth Startup__ (remote)
+<img src = "Images/StealthStartup.jpg" width = 27 height = 27/>&ensp;__Stealth Startup__ (remote)
 
 - Building a generative AI-powered chatbot using RAG and fine-tuning open source LLMs, to enhance companies’ competitive edge.
 
@@ -166,7 +166,7 @@ __Apprentice Advisor__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ems
 
 ***
 
-## Values:
+## Values
 
 I value and prioritise model fairness, understanding the data collection process and empathy for end users, diversity (particularly in data science teams), and creating business value.
 
