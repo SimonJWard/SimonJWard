@@ -64,11 +64,11 @@ __Research Associate__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ems
 
 <img src = "Images/Vanderbilt.jpg" width = 27 height = 20/>&ensp;[__Vanderbilt University__](https://www.vanderbilt.edu/) (Nashville, TN)
 
-Investigating the application of machine learning, AI and statistics to enhance performance and accessibility of medical diagnostic tests.
-- Devised approach to reduce sensor response time by a factor > 5, using ensembles of LSTM deep neural networks (Python) for time series forecasting, uncertainty estimation, adversarial training, and transfer learning with a large-scale simulated dataset, enabling rapid testing of harmful molecules.
-- Designed a capture agent-free biosensor using machine learning, applying dimensionality reduction for data visualization and classification (Python) to data from biosensor arrays, a step towards unprecedented robust, scalable, and low-cost biosensors.
-- Invented algorithm using Morlet wavelet band pass filtering and Fourier analysis (Matlab), which improved detection limits of thin film sensors by 10x, and released easy-to-use open-source app.
-- Built software (Python) and hardware to automate biosensor data collection, improving accuracy by 48% and increasing experimental throughput by 100x.
+Investigating the application of AI, machine learning, and statistics to democratize healthcare, by improving performance of sensors for medical diagnostic testing.
+- Devised deep learning-based approach to reduce sensor response time by > 5x, using ensembles of LSTM neural networks (Python, TensorFlow) for time series forecasting, uncertainty estimation, and transfer learning with a large-scale simulated dataset, enabling rapid testing of harmful molecules.
+- Designed a new biosensing paradigm by applying data visualization, classification and pattern recognition algorithms (Python, SciKit-Learn) to sensor array data, a step towards unprecedented robust, scalable, and low-cost biosensors.
+- Invented algorithm using Morlet wavelet filtering and Fourier analysis (Matlab) which improved detection limits of thin film sensors by 10x, and released user-centric open-source app.
+- Built software (Python) and hardware to automate data collection, improving accuracy by 48% and increasing experimental throughput by 100x, enabling larger datasets for more generalizable models.
 
 <br />
 
@@ -76,9 +76,9 @@ __Electronic Engineer__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&em
 
 <img src = "Images/Crowcon.jpg" width = 25 height = 20/>&ensp;[__Crowcon Detection Instruments Ltd.__](https://www.crowcon.com) (Abingdon, UK)
 
-- Developed and deployed safety-critical, production-ready gas detector firmware (C) and analogue and digital electronics for communications and running sensors, driving the companies push towards IoT capability and expansion into a previously untapped market.
-- Solved design flaws in products after troubleshooting customer problems under pressure and finding the root cause (ESD susceptibility, temperature drift), rescuing large orders ($70,000+).
-- Created test procedures for new products, designed software (Python), electronics, and mechanics for automated test jigs and audited test house, improving quality and increasing production yields by 5%.
+- Developed production-ready firmware (C) and hardware, collaborating with global cross-functional teams, driving the companies push towards IoT and expansion into a previously untapped market.
+- Solved design flaws in products by troubleshooting customer issues under pressure and finding the root cause (temperature drift, static electricity), rescuing orders ($70,000+).
+- Designed new test procedures, using software (Python) and hardware to raise production yields by 5%.
 
 <br />
                  		
@@ -135,7 +135,7 @@ __Research Mentor__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&
 
 <img src = "Images/Vanderbilt.jpg" width = 27 height = 20/>&ensp;[__Vanderbilt University__](https://www.vanderbilt.edu/) (Nashville, TN)
 
-- Led interdisciplinary team of undergraduate and graduate students working on projects I curated. The 5 undergraduate mentees over 4 years went on to be co-authors on publications, presenters at national conferences, and graduate students embarking on PhD degrees of their own.
+- Led interdisciplinary team of junior and senior researchers working on projects I curated. The 10 mentees over 4 years went on to be co-authors on publications, presenters at national conferences, and graduate students embarking on PhD degrees of their own.
 
 <br />
 
@@ -143,7 +143,7 @@ __Teaching Assistant__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ems
 
 <img src = "Images/Vanderbilt.jpg" width = 27 height = 20/>&ensp;[__Vanderbilt University__](https://www.vanderbilt.edu/) (Nashville, TN)
 
-- Instructed undergraduate course focused on Python and electronics, creating 30% of lab content.
+- Instructed undergraduate course focused on Python and digital systems, creating 30% of lab content.
 
 <br />
 
