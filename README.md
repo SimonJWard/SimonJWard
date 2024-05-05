@@ -72,7 +72,7 @@ Investigating the application of AI, machine learning, and statistics to democra
 
 <br />
 
-__Electronic Engineer__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2015 - 2019
+__Embedded Systems Engineer__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2015 - 2019
 
 <img src = "Images/Crowcon.jpg" width = 25 height = 20/>&ensp;[__Crowcon Detection Instruments Ltd.__](https://www.crowcon.com) (Abingdon, UK)
 
@@ -157,9 +157,11 @@ __Apprentice Advisor__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ems
 
 ## Awards
 
+🏆 [C.F. Chen 2022 Graduate Student Paper Award for “Best Paper in Electrical Engineering”](https://engineering.vanderbilt.edu/ece/Graduate/best-paper.php)
+
 🏆 [2022 SPIE Optics and Photonics Education Scholarship](https://my.vanderbilt.edu/vinsenews/2022/06/simon-ward-awarded-spie-optics-and-photonics-education-scholarship/)
 
-🏆 [C.F. Chen 2022 Graduate Student Paper Award for “Best Paper in Electrical Engineering”](https://engineering.vanderbilt.edu/ece/Graduate/best-paper.php)
+🏆 [Vanderbilt Graduate Student Council 2024 Leadership Award for Mentorship Excellence](https://my.vanderbilt.edu/vinsenews/2024/05/ece-phd-student-simon-ward-wins-anchor-award-for-mentorship/)
 
 🏆 [Vanderbilt Graduate Leadership Institute Fall 2022 Dissertation Enhancement Grant](https://gradschool.vanderbilt.edu/gli/degawards/)
 
@@ -177,7 +179,7 @@ I value and prioritise model fairness, understanding the data collection process
 
 ### Refereed Journal Articles:
 1. <ins>__Ward, S. J.__</ins>, Baljevic, M., & Weiss, S. M. (2024). Detection of Proteins in Human Serum, using Machine Learning Applied to Arrays of Porous Silicon Biosensors. _Manuscript in Preparation_.
-2. <ins>__Ward, S. J.__</ins>, Baljevic, M., & Weiss, S. M. (2024). Sensor Response-Time Reduction using Long-Short Term Memory Network Forecasting. _Manuscript in Preparation_.
+2. <ins>__Ward, S. J.__</ins>, Baljevic, M., & Weiss, S. M. (2024). Sensor Response-Time Reduction using Long-Short Term Memory Network Forecasting. _arXiv_ 2404.17144. doi: [10.48550/arXiv.2404.17144](https://doi.org/10.48550/arXiv.2404.17144)
 3.	<ins>__Ward, S. J.__</ins>, Cao, T., Zhou, X., Chang, C., & Weiss, S. M. (2023). Protein Identification and Quantification Using Porous Silicon Arrays, Optical Measurements, and Machine Learning. _biosensors_ 13(9), 879, 1–12. doi: [10.3390/bios13090879](https://doi.org/10.3390/bios13090879)
 4.	<ins>__Ward, S. J.__</ins>, Layouni, R., Arshavsky-Graham, S., Segal, E., & Weiss, S. M. (2021). Morlet Wavelet Filtering and Phase Analysis to Reduce the Limit of Detection for Thin Film Optical Biosensors. _ACS Sensors_, 6(8), 2967–2978. doi: [10.1021/acssensors.1c00787](https://doi.org/10.1021/acssensors.1c00787)
 6.	Arshavsky-Graham, S., <ins>__Ward, S. J.__</ins>, Massad-Ivanir, N., Scheper, T., Weiss, S. M., & Segal, E. (2021). Porous Silicon-Based Aptasensors: Toward Cancer Protein Biomarker Detection. _ACS Measurement Science Au_, 1(2), 82–94. doi: [10.1021/acsmeasuresciau.1c00019](https://doi.org/10.1021/acsmeasuresciau.1c00019)
