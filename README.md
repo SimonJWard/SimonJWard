@@ -5,20 +5,20 @@
  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simon-j-ward/) [![](https://img.shields.io/badge/Outlook-%230078D4?style=for-the-badge&logo=microsoftoutlook&labelColor=%230078D4&color=%230078D4)](mailto:simon.j.ward@outlook.com) [![](https://img.shields.io/badge/Google_Scholar-%230078D4?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=#4285F4&color=#4285F4)](https://scholar.google.com/citations?user=cYO7qKAAAAAJ&hl=en)
 
-I am an applied data science researcher with prior industry experience eager to apply my knowledge of machine learning, statistical analysis, and other data science techniques to challenging and high impact business problems. I have a strong track record of leading teams of junior and senior colleagues, working on projects I curated and creating business value.
+ML engineer and research scientist (PhD), designing and deploying intelligent systems powered by large multimodal models—ranging from retrieval-augmented generation (RAG) pipelines to agentic workflows and custom fine-tuning.
 
 ***
 
-## Applied Machine Learning/Data Science Projects
+## Applied Machine Learning Projects
 
-Below are several data science projects, primarily focused on improving the performance (speed of response, stability, and sensitivity) of biosensors (sensors able to detect harmful biological molecules) for more effective medical diagnostics 🩺💉💊, food safety 🍇🍅🍌 and environmental monitoring 🌱🐟💧, to keep people around the world healthier and safer.
+Below are several projects leveraging machine learning to improve the performance (speed of response, stability, and sensitivity) of biosensors (sensors able to detect harmful biological molecules) for more effective medical diagnostics 🩺💉, food safety 🍇🍌 and environmental monitoring 🌱💧, to protect and improve global health and security.
 
 
-| ⏱️📈⏩ [Faster Sensor Response using Time Series Forecasting](https://github.com/SimonJWard/Response-Time-Reduction/tree/main#readme)| 👅🧠🔥 [Increased Biosensor Stability using Machine Learning](https://github.com/SimonJWard/Capture-Agent-Free-Biosensing)|
+| ⏱️⏩ [Faster Sensor Response using Time Series Forecasting](https://github.com/SimonJWard/Response-Time-Reduction/tree/main#readme)| 👅🧠 [Increased Biosensor Stability using Machine Learning](https://github.com/SimonJWard/Capture-Agent-Free-Biosensing)|
 | :-:| :-:| 
 | [<img src = "https://github.com/SimonJWard/Response-Time-Reduction/blob/main/Figures/OverviewFigure.png" width = 500 height = 300/>](https://github.com/SimonJWard/Response-Time-Reduction/tree/main#readme)| [<img src="https://github.com/SimonJWard/Capture-Agent-Free-Biosensing/blob/main/Figures/OverviewFigure.png" width = 500 height = 300/>](https://github.com/SimonJWard/Capture-Agent-Free-Biosensing)
 
-| 🔍🎯📏 [Enhanced Sensor Detection Limits with Signal Processing](https://github.com/SimonJWard/Enhancing-Biosensor-Detection-Limits)| 💡🔀📚 [Inverse Design of Optical Structures using Deep Learning](https://github.com/SimonJWard/Optical-Structure-Inverse-Design)|
+| 🔍🎯 [Enhanced Sensor Detection Limits with Signal Processing](https://github.com/SimonJWard/Enhancing-Biosensor-Detection-Limits)| 💡🔀 [Inverse Design of Optical Structures using Deep Learning](https://github.com/SimonJWard/Optical-Structure-Inverse-Design)|
 | :-:| :-:| 
 | [<img src = "https://github.com/SimonJWard/Enhancing-Biosensor-Detection-Limits/blob/main/Figures/OverviewFigure.png" width = 500 height = 300/>](https://github.com/SimonJWard/Enhancing-Biosensor-Detection-Limits)| [<img src = "https://github.com/SimonJWard/Optical-Structure-Inverse-Design/blob/main/Figures/OverviewFigure.png" width = 500 height = 300/>](https://github.com/SimonJWard/Optical-Structure-Inverse-Design)
 
