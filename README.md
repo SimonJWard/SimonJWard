@@ -33,7 +33,7 @@ For further details of my skills and experience, review the sections below, or s
 ## Engineering Experience
 
 
-<img src = "Images/StealthStartup.jpg" width = 27 height = 27/>&ensp;[__Tranquility AI__](https://tranquility.ai/) (remote)
+<img src = "Images/TranquilityAI.jpeg" width = 27 height = 27/>&ensp;[__Tranquility AI__](https://tranquility.ai/) (remote)
 
 __Director of AI__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2025 - present
 
