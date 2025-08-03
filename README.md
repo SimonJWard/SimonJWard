@@ -30,6 +30,85 @@ For further details of my skills and experience, review the sections below, or s
 
 ***
 
+## Engineering Experience
+
+
+<img src = "Images/StealthStartup.jpg" width = 27 height = 27/>&ensp;[__Tranquility AI__](https://tranquility.ai/) (remote)
+
+__Director of AI__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2025 - present
+
+- Designed and implemented agentic architecture, improving answer quality and completeness, and cutting negative user feedback 50%.
+- Fine tuned large multimodal models with abliteration, QLoRA, and DPO, to improve user question compliance by 70% without significantly compromising accuracy.
+
+<br />
+
+__Principal Machine Learning Engineer__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2025
+
+- Trained and deployed lightweight classifiers for prompt routing, reducing unanswered queries by 99%.
+- Identified and evaluated alternative vector embedding approach (binary vs. float), cutting dominant operational costs by 4x.
+
+<br />
+
+__Machine Learning Engineer__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2024 - 2025
+
+- Built benchmarking suite (Python) that guided model and retrieval strategy, increasing factual recall by 15%.
+
+<br />
+
+<img src = "Images/StealthStartup.jpg" width = 27 height = 27/>&ensp;__Stealth Startup__ (remote)
+
+__Research Scientist Consultant__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2024 - present
+
+- Built and deployed a generative AI-powered chatbot using RAG and fine-tuning open source LLMs (Python, PyTorch, AWS) with sales data, to enhance companies’ competitive edge.
+
+<br />
+
+<img src = "Images/Vanderbilt.jpg" width = 27 height = 20/>&ensp;[__Vanderbilt University__](https://www.vanderbilt.edu/) (Nashville, TN)
+ 
+__Graduate Research Associate__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2019 - present
+
+Investigating the application of AI, machine learning, and statistics to democratize healthcare, by improving performance of sensors for medical diagnostic testing.
+- Devised deep learning-based approach to reduce sensor response time by > 5x, using ensembles of LSTM neural networks (Python, TensorFlow) for time series forecasting, uncertainty estimation, and transfer learning with a large-scale simulated dataset, enabling rapid testing of harmful molecules.
+- Designed a new biosensing paradigm by applying data visualization, classification and pattern recognition algorithms (Python, SciKit-Learn) to sensor array data, a step towards unprecedented robust, scalable, and low-cost biosensors.
+- Invented algorithm using Morlet wavelet filtering and Fourier analysis (Matlab) which improved detection limits of thin film sensors by 10x, and released user-centric open-source app.
+- Built software (Python) and hardware to automate data collection, improving accuracy by 48% and increasing experimental throughput by 100x, enabling larger datasets for more generalizable models.
+
+<br />
+
+<img src = "Images/Crowcon.jpg" width = 25 height = 20/>&ensp;[__Crowcon Detection Instruments Ltd.__](https://www.crowcon.com) (Abingdon, UK)
+
+__Embedded Systems Engineer__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2015 - 2019
+
+- Developed production-ready firmware (C) and hardware, collaborating with global cross-functional teams, driving the companies push towards IoT and expansion into a previously untapped market.
+- Solved design flaws in products by troubleshooting customer issues under pressure and finding the root cause (temperature drift, static electricity), rescuing orders ($70,000+).
+- Designed new test procedures, using software (Python) and hardware to raise production yields by 5%.
+
+<br />
+                 		
+__Research and Development Intern__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(two summer internships) 2014 and 2015
+
+- Designed, implemented, and analyzed experiments to test software and hardware of a gas detecting camera and designed intelligent junction box, collaborating with a multi-functional global team.
+
+<br />
+
+<img src = "Images/Durham.jpg" width = 20 height = 20/>&ensp;[__Durham University__](https://www.durham.ac.uk/) (Durham, UK)
+
+__Undergraduate Research Assistant__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2012 - 2015
+
+- Engineered eddy current pipeline defect testing solution and data analytics (Python), potentially reducing operating costs by >20%, and communicated findings to partners and stakeholders at GE.
+- Probed molecular behaviour of surfactants using dual polarization interferometry, providing valuable insights informing Procter and Gamble product development, and presented to P&G stakeholders.
+- Modelled physics of sending a rocket to the moon (Python), adding novel functionality.
+
+<br />
+
+<img src = "Images/OxfordInstruments.png" width = 25 height = 25/>&ensp;[__Oxford Instruments__](https://www.oxinst.com/) (Abingdon, UK)
+
+__Research and Development Intern__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(summer internship) 2011
+
+- Quantified vibration in cryogen-free superconducting magnet system with laser Doppler measurements.
+
+***
+
 ## Education
 
 <img src = "Images/Vanderbilt.jpg" width = 27 height = 20/>&ensp;[__Vanderbilt University__](https://www.vanderbilt.edu/) (Nashville, TN) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2019 - 2024 (February)
@@ -50,82 +129,9 @@ For further details of my skills and experience, review the sections below, or s
 
 ***
 
-## Engineering Experience
-
-__Consultant Research Scientist__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2024 - present
-
-<img src = "Images/StealthStartup.jpg" width = 27 height = 27/>&ensp;__Stealth Startup__ (remote)
-
-- Building a generative AI-powered chatbot using RAG and fine-tuning open source LLMs, to enhance companies’ competitive edge.
-
-<br />
- 
-__Research Associate__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2019 - present
-
-<img src = "Images/Vanderbilt.jpg" width = 27 height = 20/>&ensp;[__Vanderbilt University__](https://www.vanderbilt.edu/) (Nashville, TN)
-
-Investigating the application of AI, machine learning, and statistics to democratize healthcare, by improving performance of sensors for medical diagnostic testing.
-- Devised deep learning-based approach to reduce sensor response time by > 5x, using ensembles of LSTM neural networks (Python, TensorFlow) for time series forecasting, uncertainty estimation, and transfer learning with a large-scale simulated dataset, enabling rapid testing of harmful molecules.
-- Designed a new biosensing paradigm by applying data visualization, classification and pattern recognition algorithms (Python, SciKit-Learn) to sensor array data, a step towards unprecedented robust, scalable, and low-cost biosensors.
-- Invented algorithm using Morlet wavelet filtering and Fourier analysis (Matlab) which improved detection limits of thin film sensors by 10x, and released user-centric open-source app.
-- Built software (Python) and hardware to automate data collection, improving accuracy by 48% and increasing experimental throughput by 100x, enabling larger datasets for more generalizable models.
-
-<br />
-
-__Embedded Systems Engineer__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2015 - 2019
-
-<img src = "Images/Crowcon.jpg" width = 25 height = 20/>&ensp;[__Crowcon Detection Instruments Ltd.__](https://www.crowcon.com) (Abingdon, UK)
-
-- Developed production-ready firmware (C) and hardware, collaborating with global cross-functional teams, driving the companies push towards IoT and expansion into a previously untapped market.
-- Solved design flaws in products by troubleshooting customer issues under pressure and finding the root cause (temperature drift, static electricity), rescuing orders ($70,000+).
-- Designed new test procedures, using software (Python) and hardware to raise production yields by 5%.
-
-<br />
-                 		
-__Research and Development Intern__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(two summer internships) 2014 and 2015
-
-<img src = "Images/Crowcon.jpg" width = 25 height = 20/>&ensp;[__Crowcon Detection Instruments Ltd.__](https://www.crowcon.com) (Abingdon, UK)
-
-- Designed, implemented, and analyzed experiments to test software and hardware of a gas detecting camera and designed intelligent junction box, collaborating with a multi-functional global team.
-
-<br />
-            		
-__Research Associate__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2012 - 2015
-
-<img src = "Images/Durham.jpg" width = 20 height = 20/>&ensp;[__Durham University__](https://www.durham.ac.uk/) (Durham, UK)
-
-- Engineered eddy current pipeline defect testing solution and data analytics (Python), potentially reducing operating costs by >20%, and communicated findings to partners and stakeholders at GE.
-- Probed molecular behaviour of surfactants using dual polarization interferometry, providing valuable insights informing Procter and Gamble product development, and presented to P&G stakeholders.
-- Modelled physics of sending a rocket to the moon (Python), adding novel functionality.
-
-<br />
-            		
-__Research and Development Intern__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(summer internship) 2011
-
-<img src = "Images/OxfordInstruments.png" width = 25 height = 25/>&ensp;[__Oxford Instruments__](https://www.oxinst.com/) (Abingdon, UK)
-
-- Quantified vibration in cryogen-free superconducting magnet system with laser Doppler measurements.
-
-***
-
 ## Skills
 
 [![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](https://www.python.org) [![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org) [![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org) [![](https://img.shields.io/badge/Hugging_Face-FFD43B?style=for-the-badge&logo=huggingface&logoColor=darkgreen)](https://huggingface.co/) [![](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib)](https://www.mathworks.com/products/matlab.html) [![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/) [![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org) [![](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)](https://keras.io) [![](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)](https://www.scipy.org) [![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)](https://git-scm.com/) [![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com) [![](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab)](https://www.mathworks.com/products/matlab.html) [![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.cprogramming.com) [![](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://www.office.com) [![](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=Windows&logoColor=white)](https://www.office.com) [![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black)](https://www.office.com) [![](https://img.shields.io/badge/OS_X-000000?style=for-the-badge&logo=Apple&logoColor=white)](https://www.office.com)
-
-Experience using the following machine learning models:
-
-* Linear Regression
-* Logistic Regression
-* Support Vector Machines (SVM)
-* Random Forests (RF)
-* K-Nearest Neighbors (KNN)
-* Principal Components Analysis (PCA)
-* Linear Discriminant Anlysis (LDA)
-* Artificial Neural Networks (ANN)
-* Recurrent Neural Networks (RNN)
-* Gated Recurrent Unit (GRU)
-* Long Short-Term Memory (LSTM)
-* Large Language Models (LLM)
 
 ***
 
@@ -169,19 +175,14 @@ __Apprentice Advisor__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ems
 
 ***
 
-## Values
-
-I value and prioritise model fairness, understanding the data collection process and empathy for end users, and diversity (in all areas, but particularly data science teams).
-
-***
-
 ## Publications
 
 ### Refereed Journal Articles:
-1. <ins>__Ward, S. J.__</ins>, Baljevic, M., & Weiss, S. M. (2024). Detection of Proteins in Human Serum, using Machine Learning Applied to Arrays of Porous Silicon Biosensors. _Manuscript in Preparation_.
-2. <ins>__Ward, S. J.__</ins>, Baljevic, M., & Weiss, S. M. (2024). Sensor Response-Time Reduction using Long-Short Term Memory Network Forecasting. _arXiv_ 2404.17144. doi: [10.48550/arXiv.2404.17144](https://doi.org/10.48550/arXiv.2404.17144)
-3.	<ins>__Ward, S. J.__</ins>, Cao, T., Zhou, X., Chang, C., & Weiss, S. M. (2023). Protein Identification and Quantification Using Porous Silicon Arrays, Optical Measurements, and Machine Learning. _biosensors_ 13(9), 879, 1–12. doi: [10.3390/bios13090879](https://doi.org/10.3390/bios13090879)
-4.	<ins>__Ward, S. J.__</ins>, Layouni, R., Arshavsky-Graham, S., Segal, E., & Weiss, S. M. (2021). Morlet Wavelet Filtering and Phase Analysis to Reduce the Limit of Detection for Thin Film Optical Biosensors. _ACS Sensors_, 6(8), 2967–2978. doi: [10.1021/acssensors.1c00787](https://doi.org/10.1021/acssensors.1c00787)
+1. <ins>__Ward, S. J.__</ins>, Baljevic, M., & Weiss, S. M. (2025). Detection of Proteins in Human Serum, using Machine Learning Applied to Arrays of Porous Silicon Biosensors. _Manuscript in Preparation_.
+2. An, H., <ins>__Ward, S. J.__</ins>, Layouni, R., Laibinis, P. E., Locke, A. K., & Weiss, S. M. (2025). Porous silicon on paper: a platform for quantitative rapid diagnostic tests. _ACS Applied Materials & Interfaces_ 17 (4), 6024-6030. doi: [10.1021/acsami.4c18940](https://doi.org/10.1021/acsami.4c18940)
+3. <ins>__Ward, S. J.__</ins>, Baljevic, M., & Weiss, S. M. (2024). Sensor Response-Time Reduction using Long-Short Term Memory Network Forecasting. _arXiv_ 2404.17144. doi: [10.48550/arXiv.2404.17144](https://doi.org/10.48550/arXiv.2404.17144)
+4.	<ins>__Ward, S. J.__</ins>, Cao, T., Zhou, X., Chang, C., & Weiss, S. M. (2023). Protein Identification and Quantification Using Porous Silicon Arrays, Optical Measurements, and Machine Learning. _biosensors_ 13(9), 879, 1–12. doi: [10.3390/bios13090879](https://doi.org/10.3390/bios13090879)
+5.	<ins>__Ward, S. J.__</ins>, Layouni, R., Arshavsky-Graham, S., Segal, E., & Weiss, S. M. (2021). Morlet Wavelet Filtering and Phase Analysis to Reduce the Limit of Detection for Thin Film Optical Biosensors. _ACS Sensors_, 6(8), 2967–2978. doi: [10.1021/acssensors.1c00787](https://doi.org/10.1021/acssensors.1c00787)
 6.	Arshavsky-Graham, S., <ins>__Ward, S. J.__</ins>, Massad-Ivanir, N., Scheper, T., Weiss, S. M., & Segal, E. (2021). Porous Silicon-Based Aptasensors: Toward Cancer Protein Biomarker Detection. _ACS Measurement Science Au_, 1(2), 82–94. doi: [10.1021/acsmeasuresciau.1c00019](https://doi.org/10.1021/acsmeasuresciau.1c00019)
 ### Conference Proceedings:
 1.	<ins>__Ward, S. J.__</ins>, & Weiss, S. M. (2023). Reduction in sensor response time using long short-term memory network forecasting. _Proc. SPIE_, 12675(126750E). doi: [10.1117/12.2676836](https://doi.org/10.1117/12.2676836)
@@ -189,10 +190,11 @@ I value and prioritise model fairness, understanding the data collection process
 3.	<ins>__Ward, S. J.__</ins>, & Weiss, S. M. (2021). Reducing detection limits of porous silicon thin film optical sensors using signal processing. _Proc. SPIE_, 11662(116620J). [10.1117/12.2579361](https://doi.org/10.1117/12.2579361)
 ### Conference Presentations:
 1.	“Reduction in sensor response time using long short-term memory network forecasting” <ins>__Ward, S. J.__</ins>, & Weiss, S. M. SPIE Optics and Photonics, San Diego, CA, Aug. 2023.
-2.	“Using Machine Learning with Porous Silicon to Determine IgG Concentrations in Human Serum” Paier, G., <ins>__Ward, S. J.__</ins>, & Weiss, S. M. BMES, San Antonio, TX, Oct. 2022.
-3.	“Reducing Detection Limits of Porous Silicon Thin Film Sensors using Signal Processing” <ins>__Ward, S. J.__</ins>, Layouni R., Arshavsky-Graham S., Segal E., and Weiss S. M. PSST, Lido di Camaiore, Italy, March. 2022.
-4.	“Analysis of Machine Learning Techniques for Capture Agent Free Biosensing with Porous Silicon Arrays” <ins>__Ward, S. J.__</ins>, Cao, T., Chang, C., & Weiss, S. M. SPIE Photonics West, San Francisco, CA, Jan. 2022.
-5.	“Reducing Detection Limits of Optical Thin Film Sensors using Signal Processing” <ins>__Ward, S. J.__</ins>, & Weiss, S. M. SPIE Photonics West, Online, March. 2021.
+2.	“Paper-based diagnostics incorporating porous silicon” Layouni, R., Yang, J., <ins>__Ward, S. J.__</ins>, Laibinis, P. E., & Weiss, S. M. SPIE Photonics West, San Francisco, CA, March. 2023.
+3.	“Using Machine Learning with Porous Silicon to Determine IgG Concentrations in Human Serum” Paier, G., <ins>__Ward, S. J.__</ins>, & Weiss, S. M. BMES, San Antonio, TX, Oct. 2022.
+4.	“Reducing Detection Limits of Porous Silicon Thin Film Sensors using Signal Processing” <ins>__Ward, S. J.__</ins>, Layouni, R., Arshavsky-Graham, S., Segal E., and Weiss S. M. PSST, Lido di Camaiore, Italy, March. 2022.
+5.	“Analysis of Machine Learning Techniques for Capture Agent Free Biosensing with Porous Silicon Arrays” <ins>__Ward, S. J.__</ins>, Cao, T., Chang, C., & Weiss, S. M. SPIE Photonics West, San Francisco, CA, Jan. 2022.
+6.	“Reducing Detection Limits of Optical Thin Film Sensors using Signal Processing” <ins>__Ward, S. J.__</ins>, & Weiss, S. M. SPIE Photonics West, Online, March. 2021.
 
 ***
 
@@ -231,7 +233,7 @@ __Church Volunteer__&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 
 ***
 
-Below are some of the ways to connect, please feel free to reach out with any questions, comments, or opportunities.
+Below are some of the ways to connect, please feel free to reach out!
 
 🖇 __LinkedIn:__ __linkedin.com/in/simon-j-ward/__
 
