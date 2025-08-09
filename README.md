@@ -11,7 +11,7 @@ ML engineer and research scientist (PhD), designing and deploying intelligent sy
 
 ## Applied Machine Learning Projects
 
-Below are several projects leveraging machine learning to improve the performance (speed of response, stability, and sensitivity) of biosensors (sensors able to detect harmful biological molecules) for more effective medical diagnostics 🩺💉, food safety 🍇🍌 and environmental monitoring 🌱💧, to protect and improve global health and security.
+Below are several projects leveraging machine learning to improve the performance (speed of response, stability, and sensitivity) of biosensors (sensors able to detect harmful biological molecules) for more effective medical diagnostics 🩺, food safety 🍇 and environmental monitoring 🌱, to protect and improve global health and security.
 
 
 | ⏱️⏩ [Faster Sensor Response using Time Series Forecasting](https://github.com/SimonJWard/Response-Time-Reduction/tree/main#readme)| 👅🧠 [Increased Biosensor Stability using Machine Learning](https://github.com/SimonJWard/Capture-Agent-Free-Biosensing)|
